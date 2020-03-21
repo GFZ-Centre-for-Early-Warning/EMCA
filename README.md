@@ -8,7 +8,9 @@ This repository contains data, code and resulting models as described in the pap
 ![CA Modeln](docs/images/ca_model_v2_bdg_dens.png)
 
 The CVT_XXX folders contains the country-specific Central Voronoidal Tessellations (CVT) in shapefile format and relared exposure information as CSV and XML files. 
-In the EXPO_MODELS folder only the exposure models are collected
+The exposure_*.xml files are standard xposure files according to GEM (Global Earthquake Nodel) NRML 0.5 format specifications.
+
+In the EXPO_MODELS folder only the exposure models are collected. 
 
 See the folder structure tree.
 
