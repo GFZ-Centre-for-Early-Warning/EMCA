@@ -12,7 +12,7 @@ In the EXPO_MODELS folder only the exposure models are collected
 
 See the folder structure tree.
 
-
+'''
 ├── CVT_KAZ
 │   ├── EMCA\ Seismic\ exposure\ model\ for\ Kazakhstan_201902191610.xml
 │   ├── EMCA\ Seismic\ exposure\ model\ for\ Kazakhstan_201902191610.zip
@@ -94,4 +94,4 @@ See the folder structure tree.
 │   ├── exposure_cvt_tkm_pw10_eps001_v20190205.xml
 │   ├── exposure_cvt_uzb_pw10_eps001_v20190205.csv
 │   └── exposure_cvt_uzb_pw10_eps001_v20190205.xml
-
+'''
